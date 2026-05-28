@@ -1,5 +1,13 @@
 # @read-frog/extension
 
+## 1.33.12
+
+### Patch Changes
+
+- [#1618](https://github.com/mengxi-ream/read-frog/pull/1618) [`c9b157a`](https://github.com/mengxi-ream/read-frog/commit/c9b157ad56a42d2ba691cbbbbc9859d378802f5d) Thanks [@ananaBMaster](https://github.com/ananaBMaster)! - fix(providers): migrate 302.AI configs to custom provider
+
+  Remove 302.AI as a built-in provider, migrate existing configs to an OpenAI-compatible custom provider, and seed DeepSeek with `deepseek-v4-flash` for new installs.
+
 ## 1.33.11
 
 ### Patch Changes
